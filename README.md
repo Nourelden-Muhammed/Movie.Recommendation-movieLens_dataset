@@ -7,7 +7,7 @@ The goal is to compare different techniques and provide a unified recommendation
 
 ---
 
-## 2. Data Preprocessing
+## 2. 📂 Data Preprocessing
 Implemented in **`Notebooks/DataReady.ipynb`**  
 - Load raw MovieLens datasets (ratings, movies, users).  
 - Convert timestamps and perform sanity checks.  
@@ -17,7 +17,7 @@ Implemented in **`Notebooks/DataReady.ipynb`**
 
 ---
 
-## 3. Data Analysis
+## 3. 📊 Data Analysis
 Implemented in **`Notebooks/MovieLens Data Analysis.ipynb`**  
 - **Ratings distribution**: Explore how users rate movies.  
 - **User activity analysis**: Identify highly/lowly active users.  
@@ -29,7 +29,7 @@ Implemented in **`Notebooks/MovieLens Data Analysis.ipynb`**
 
 ---
 
-## 4. Machine Learning (Recommendation Models)
+## 4. ⚙️ Machine Learning (Recommendation Models)
 Implemented in **`Notebooks/Modeling.ipynb`**  
 
 ### Baseline Models
