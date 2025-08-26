@@ -1,7 +1,7 @@
 # 🎬 MovieLens Recommender System
 
 ## 1. Project Overview
-This project demonstrates how to build and evaluate a movie recommendation system using the [**MovieLens dataset**](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset/discussion?sort=hotness).  .  
+This project demonstrates how to build and evaluate a movie recommendation system using the [**MovieLens dataset**](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset/discussion?sort=hotness). 
 It covers the full pipeline: data preprocessing, exploratory analysis, baseline models, collaborative filtering, and matrix factorization approaches (SVD).  
 The goal is to compare different techniques and provide a unified recommendation API with ranking metrics evaluation.
 
